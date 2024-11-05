@@ -2,58 +2,65 @@
 
 I'm a passionate software developer with a diverse skill set and a love for crafting efficient and scalable applications. With experience in multiple programming languages and frameworks, I enjoy tackling complex challenges and delivering high-quality solutions.
 
+---
+
 ### 🔧 Technologies & Tools
-- **Programming Languages:**
-  ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) PHP
-  ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png) Python
-  ![Go](https://golang.org/doc/gopher/appengine/gopher.png) Go
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/en/6/6a/JavaScript-logo.png) JavaScript
-- **Frameworks:**
-  ![Laravel](https://laravel.com/img/logotype.min.svg) Laravel
-  ![CodeIgniter](https://www.codeigniter.com/assets/images/ci-logo.svg) CodeIgniter
-  ![Flask](https://flask.palletsprojects.com/en/2.2.x/_static/flask-logo.svg) Flask
-  ![Gin](https://gin-gonic.github.io/gin/images/gin-gonic.png) Gin
-  ![Angular](https://angular.io/assets/images/logos/angular/logo-nav@2x.png) Angular
-- **Databases:**
-  ![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png) MySQL
-  ![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png) PostgreSQL
-  ![MongoDB](https://www.mongodb.com/assets/images/global/logo/mongodb-svgrepo-com.svg) MongoDB
-  ![Redis](https://redis.io/images/redis-white.svg) Redis
-- **Database Architecture:**
-  ![Master-Slave](https://www.tutorialspoint.com/dbms/images/replication_master_slave.jpg) Master-Slave
-  ![Master-Master](https://www.dbsmasher.com/images/dbsmasher/multi-master-replication.png) Master-Master
-  ![Load Balancer](https://www.nginx.com/wp-content/uploads/2018/08/load-balancer-architecture-diagram.png) Load Balancer
-- **Web Development:**
-  ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png) HTML
-  ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg) CSS
-- **Version Control & Project Management:**
-  ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) Git
-  ![Jira](https://wac-cdn.atlassian.com/dam/jcr:0aeeac48-7638-4dc9-b631-2f7ef5367160/jira-software-768x368.png?cdnVersion=617) Jira
-- **APIs & Testing:**
-  ![Postman](https://www.postman.com/assets/logos/postman-logo-black.svg) Postman
-- **Quality & Monitoring:**
-  ![SonarQube](https://www.sonarqube.org/images/sonarqube_logo.png) SonarQube
-  ![ELK](https://www.elastic.co/guide/en/elastic-stack/current/images/elastic-logo.png) ELK Stack
-- **Messaging & Streaming:**
-  ![Kafka](https://kafka.apache.org/images/kafka-logo.png) Kafka
-- **Job Processing & Scheduling:**
-  ![Job Queues](https://www.kalabox.io/images/job-queues.jpg) Job Queues
-  ![Schedulers](https://miro.medium.com/max/2400/1*I4bqH1gXBLVaUM6_AuhM8A.png) Schedulers
-- **API Documentation:**
-  ![Swagger](https://swagger.io/tools/swagger-ui/images/swagger-logo.png) Swagger
-- **Architecture & Design:**
-  ![Microservices](https://microservices.io/img/microservices.png) Microservices
-  ![Event-Driven Architecture](https://dzone.com/storage/temp/12424882-event-driven-architecture.png) Event-Driven Architecture
-- **Principles & Patterns:**
-  ![SOLID Principles](https://www.simplilearn.com/ice9/free_resources_article_thumb/solid-principles.jpg) SOLID Principles
-  ![Design Patterns](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0pZtBDNklEy9yCwa0cA_NA.jpeg) Design Patterns
-- **Data Structures & Algorithms:**
-  ![Data Structures](https://www.tutorialspoint.com/data_structures_algorithms/images/data_structures_algorithms.jpg) DSA
-  ![Partitioning](https://miro.medium.com/max/1400/1*bEYtcVg0zIHw4U7sW4MPVQ.png) Partitioning
-  ![Sharding](https://www.digitalocean.com/community/tutorials/understanding-sharding-in-mongodb-and-how-to-use-it-with-spring-boot-shard-architecture.png) Sharding
-- **Web Development:**
-  ![Core PHP](https://www.php.net/images/logos/php-logo.svg) Core PHP
-  ![WordPress](https://s.w.org/images/core/5.8/wp-logo-simplified.svg) WordPress
+
+#### **Languages**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### **Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin%20Gonic-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### **Web Development**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Core PHP](https://img.shields.io/badge/-Core%20PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+#### **Tools & Project Management**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+#### **Quality, Monitoring, & Messaging**
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elastic&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+#### **Job Processing & Scheduling**
+![Job Queues](https://img.shields.io/badge/-Job%20Queues-333333?style=flat-square)
+![Schedulers](https://img.shields.io/badge/-Schedulers-333333?style=flat-square)
+
+#### **Architectures**
+![Microservices](https://img.shields.io/badge/-Microservices-1F8ACB?style=flat-square)
+![Event-Driven Architecture](https://img.shields.io/badge/-Event%20Driven%20Architecture-FF5733?style=flat-square)
+![Master-Slave](https://img.shields.io/badge/-Master%20Slave-333333?style=flat-square)
+![Master-Master](https://img.shields.io/badge/-Master%20Master-333333?style=flat-square)
+![Load Balancer](https://img.shields.io/badge/-Load%20Balancer-007ACC?style=flat-square)
+
+#### **Principles & Patterns**
+![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-333333?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-333333?style=flat-square)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-333333?style=flat-square)
+![Partitioning](https://img.shields.io/badge/-Partitioning-333333?style=flat-square)
+![Sharding](https://img.shields.io/badge/-Sharding-333333?style=flat-square)
+
+---
 
 ### 🌟 My Approach
 I believe in writing clean, maintainable code and applying best practices to ensure software longevity and performance. My experience in system design allows me to build robust architectures that can handle growth and change.
@@ -65,4 +72,4 @@ I believe in writing clean, maintainable code and applying best practices to ens
 ### 📫 Let's Connect
 Feel free to reach out to me if you want to collaborate on exciting projects or just want to chat about tech!
 
-[LinkedIn](https://www.linkedin.com/in/lovers-jain-417b4864/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovers-jain-417b4864/) | [Your Website/Blog](#) | [Your Twitter](#)
